@@ -2,10 +2,6 @@
 
 Part of the back end certificate at http://freecodecamp.com. For more information about this challenge, go to http://freecodecamp.com/challenges/basejump-timestamp-microservice
 
-## Live Demo
-
-Go to https://unixapi.herokuapp.com/ for the live demo of this app.
-
 ## User Stories
 
 1. I can pass a string as a parameter, and it will check to see whether that string contains either a unix timestamp or a natural language date (example: January 1, 2016).
